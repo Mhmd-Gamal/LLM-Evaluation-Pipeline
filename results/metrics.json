@@ -1,0 +1,148 @@
+{
+  "total_questions": 150,
+  "overall_accuracy": 0.0,
+  "per_category_accuracy": {
+    "clinical_knowledge": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "total": 15
+    },
+    "anatomy": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "total": 15
+    },
+    "astronomy": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "total": 15
+    },
+    "college_computer_science": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "total": 15
+    },
+    "college_mathematics": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "total": 15
+    },
+    "college_physics": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "total": 15
+    },
+    "business_ethics": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "total": 15
+    },
+    "abstract_algebra": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "total": 15
+    },
+    "college_biology": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "total": 15
+    },
+    "college_chemistry": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "total": 15
+    }
+  },
+  "response_time_stats": {
+    "mean_ms": 0.0,
+    "median_ms": 0.0,
+    "std_ms": 0.0,
+    "min_ms": 0.0,
+    "max_ms": 0.0
+  },
+  "extraction_success_rate": 0.0,
+  "confidence_stats": {
+    "mean": 0.0,
+    "median": 0.0,
+    "std": 0.0
+  },
+  "error_analysis": {
+    "total_errors": 150,
+    "error_rate": 1.0,
+    "errors_by_category": {
+      "clinical_knowledge": 15,
+      "anatomy": 15,
+      "astronomy": 15,
+      "college_computer_science": 15,
+      "college_mathematics": 15,
+      "college_physics": 15,
+      "business_ethics": 15,
+      "abstract_algebra": 15,
+      "college_biology": 15,
+      "college_chemistry": 15
+    },
+    "extraction_failures": 150,
+    "error_examples": [
+      {
+        "question": "Creatine is synthesized from:...",
+        "correct": "B",
+        "predicted": "",
+        "category": "clinical_knowledge"
+      },
+      {
+        "question": "Which of the following is true about the assessment of arm reflexes?...",
+        "correct": "A",
+        "predicted": "",
+        "category": "clinical_knowledge"
+      },
+      {
+        "question": "The activity of creatine kinase is:...",
+        "correct": "A",
+        "predicted": "",
+        "category": "clinical_knowledge"
+      },
+      {
+        "question": "During swallowing the...",
+        "correct": "A",
+        "predicted": "",
+        "category": "anatomy"
+      },
+      {
+        "question": "The visible part of the electromagnetic spectrum is between ......",
+        "correct": "C",
+        "predicted": "",
+        "category": "astronomy"
+      },
+      {
+        "question": "Two single-user workstations are attached to the same local area network. On one of these workstatio...",
+        "correct": "B",
+        "predicted": "",
+        "category": "college_computer_science"
+      },
+      {
+        "question": "Why is the Mars Exploration Rover Spirit currently tilted towards the north?...",
+        "correct": "B",
+        "predicted": "",
+        "category": "astronomy"
+      },
+      {
+        "question": "Why is it thought that the climate on Mars changed when the planet lost its strong magnetic field?...",
+        "correct": "C",
+        "predicted": "",
+        "category": "astronomy"
+      },
+      {
+        "question": "Statement 1 | Suppose f : [a, b] is a function and suppose f has a local maximum. f'(x) must exist a...",
+        "correct": "D",
+        "predicted": "",
+        "category": "college_mathematics"
+      },
+      {
+        "question": "A uniform solid disk starts from rest and rolls down an inclined plane without slipping. After some ...",
+        "correct": "B",
+        "predicted": "",
+        "category": "college_physics"
+      }
+    ]
+  }
+}
