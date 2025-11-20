@@ -355,8 +355,4 @@ curl -X POST http://localhost:8000/evaluate_mcq \
 
 MIT License - See LICENSE file for details
 
----
 
----
-
-**Thank you for reviewing this submission!** I'm excited to discuss the implementation details, design decisions, and potential improvements in the follow-up interview.
